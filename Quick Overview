@@ -1,0 +1,12 @@
+# BMD409-Structural-Case-Study
+The Snakebite Neurotoxicity and Therapeutic Target Design project focuses on understanding the clinical manifestations of snakebites, specifically the neurotoxic effects, and developing a therapeutic strategy to prevent the interaction between snake venom toxins and acetylcholinesterase.
+
+Snakebite, classified as a neglected tropical disease by the World Health Organization, presents a significant health burden in affected regions. The most clinically important neurotoxic effect is acute neuromuscular weakness with respiratory involvement. However, the patterns of symptom evolution, recovery, weakness, and respiratory complications can vary greatly, depending on factors such as snake species and the type of neurotoxicity.
+
+To comprehend the mechanisms underlying the neurotoxic effects, this project aims to investigate the interaction between venom toxins and acetylcholinesterase, an enzyme critical for normal nerve signal transmission. In snakebite cases, the toxin inhibits acetylcholinesterase, leading to the accumulation of the neurotransmitter acetylcholine and subsequent neurotoxicity. Particularly, the focus is on the fatal toxin produced by the green mamba and other venomous snakes, which acts as a potent acetylcholinesterase inhibitor.
+
+To counteract the venom's effect on acetylcholinesterase, this project proposes the design of a therapeutic target utilizing the pdb structure 1ACJ. The goal is to develop a drug that blocks the interaction between the snake venom toxin and acetylcholinesterase, effectively preventing the neurotoxic effects.
+
+The project employs Molecular Docking with Autodock Vina, a computational method that predicts the binding affinity of molecules. The affinity of Tacrine, a known acetylcholinesterase inhibitor, to acetylcholinesterase is evaluated as a baseline. Furthermore, the project aims to identify additional potential inhibitors that have successfully inhibited acetylcholinesterase by exploring a range of compounds.
+
+Through this case study, we seek to contribute to the understanding of snakebite neurotoxicity and develop a drug target to mitigate the interaction between snake venom toxins and acetylcholinesterase. By identifying effective inhibitors and potential therapeutic candidates, we aim to advance the development of treatments for snakebite victims and potentially improve patient outcomes in regions affected by this neglected tropical disease.
